@@ -1,0 +1,365 @@
+Datum,team1,team2,score1,something,score2,Dec,Period,Arena,Att,hej,hej2,hej3
+2021-04-03,MalmöMIF,VäxjöVLH,3,-,5,Reg,1-0, 1-2, 1-3,Malmö Arena,0
+2021-04-03,OskarshamnIKO,BrynäsBIF,4,-,3,Reg,1-1, 3-2, 0-0,Be-Ge Hockey Center,8
+2021-04-03,ÖrebroÖRE,FärjestadFBK,2,-,3,Reg,0-1, 0-1, 2-1,Behrn Arena,0
+2021-04-03,HV71HV71,LinköpingLHC,5,-,3,Reg,2-0, 1-1, 2-2,Husqvarna Garden,0
+2021-04-02,FrölundaFHC,VäxjöVLH,2,-,1,Reg,1-0, 1-0, 0-1,Scandinavium,0
+2021-04-01,BrynäsBIF,FärjestadFBK,1,-,4,Reg,0-0, 1-1, 0-3,Monitor ERP Arena,0
+2021-03-31,FärjestadFBK,MalmöMIF,1,-,2,Reg,0-1, 0-1, 1-0,Löfbergs Arena,0
+2021-03-31,BrynäsBIF,VäxjöVLH,1,-,5,Reg,0-1, 0-3, 1-1,Monitor ERP Arena,0
+2021-03-29,LeksandLIF,MalmöMIF,4,-,1,Reg,2-1, 1-0, 1-0,Tegera Arena,8
+2021-03-29,LinköpingLHC,LuleåLHF,1,-,7,Reg,0-0, 1-6, 0-1,Saab Arena,0
+2021-03-29,VäxjöVLH,FrölundaFHC,3,-,2,Reg,1-1, 1-0, 1-1,Vida Arena,8
+2021-03-29,FärjestadFBK,SkellefteåSKE,4,-,3,OT,1-0, 1-0, 1-3, 1-0,Löfbergs Arena,0
+2021-03-28,ÖrebroÖRE,MalmöMIF,3,-,2,Reg,2-0, 0-1, 1-1,Behrn Arena,0
+2021-03-27,DjurgårdenDIF,FärjestadFBK,3,-,5,Reg,0-1, 2-1, 1-3,Hovet,0
+2021-03-27,HV71HV71,LuleåLHF,2,-,3,Reg,0-2, 2-1, 0-0,Husqvarna Garden,0
+2021-03-27,RögleRBK,VäxjöVLH,4,-,1,Reg,2-0, 1-1, 1-0,Catena Arena,8
+2021-03-26,SkellefteåSKE,MalmöMIF,6,-,1,Reg,1-0, 3-0, 2-1,Skellefteå Kraft Arena,0
+2021-03-25,DjurgårdenDIF,LinköpingLHC,2,-,3,Reg,0-0, 1-2, 1-1,Hovet,0
+2021-03-25,RögleRBK,LeksandLIF,1,-,3,Reg,1-2, 0-1, 0-0,Catena Arena,8
+2021-03-25,OskarshamnIKO,HV71HV71,7,-,0,Reg,1-0, 4-0, 2-0,Be-Ge Hockey Center,8
+2021-03-24,LuleåLHF,MalmöMIF,3,-,0,Reg,1-0, 1-0, 1-0,Coop Norrbotten Arena,0
+2021-03-23,HV71HV71,LeksandLIF,0,-,6,Reg,0-1, 0-1, 0-4,Husqvarna Garden,0
+2021-03-22,MalmöMIF,OskarshamnIKO,2,-,3,OT,0-0, 1-1, 1-1, 0-1,Malmö Arena,0
+2021-03-20,BrynäsBIF,HV71HV71,2,-,1,OT,0-0, 0-1, 1-0, 1-0,Monitor ERP Arena,0
+2021-03-20,SkellefteåSKE,OskarshamnIKO,3,-,1,Reg,0-0, 1-0, 2-1,Skellefteå Kraft Arena,0
+2021-03-20,LeksandLIF,LuleåLHF,2,-,1,Reg,1-0, 1-0, 0-1,Tegera Arena,8
+2021-03-19,MalmöMIF,RögleRBK,2,-,1,SO,0-0, 1-0, 0-1, 0-0, 1-0,Malmö Arena,8
+2021-03-18,LeksandLIF,OskarshamnIKO,3,-,2,Reg,2-1, 0-0, 1-1,Tegera Arena,8
+2021-03-18,DjurgårdenDIF,BrynäsBIF,4,-,1,Reg,0-0, 3-0, 1-1,Hovet,0
+2021-03-16,FrölundaFHC,OskarshamnIKO,3,-,1,Reg,0-1, 0-0, 3-0,Scandinavium,0
+2021-03-16,BrynäsBIF,ÖrebroÖRE,3,-,1,Reg,0-0, 1-0, 2-1,Monitor ERP Arena,0
+2021-03-14,OskarshamnIKO,ÖrebroÖRE,5,-,1,Reg,1-0, 3-1, 1-0,Be-Ge Hockey Center,8
+2021-03-13,ÖrebroÖRE,OskarshamnIKO,7,-,1,Reg,3-0, 3-0, 1-1,Behrn Arena,0
+2021-03-13,BrynäsBIF,FrölundaFHC,3,-,0,Reg,1-0, 2-0, 0-0,Monitor ERP Arena,0
+2021-03-11,LuleåLHF,ÖrebroÖRE,0,-,3,Reg,0-2, 0-0, 0-1,Coop Norrbotten Arena,0
+2021-03-11,LeksandLIF,BrynäsBIF,4,-,0,Reg,2-0, 0-0, 2-0,Tegera Arena,8
+2021-03-11,VäxjöVLH,HV71HV71,2,-,1,Reg,0-0, 0-1, 2-0,Vida Arena,8
+2021-03-11,LinköpingLHC,RögleRBK,5,-,3,Reg,1-0, 3-1, 1-2,Saab Arena,0
+2021-03-11,OskarshamnIKO,DjurgårdenDIF,4,-,2,Reg,2-1, 1-0, 1-1,Be-Ge Hockey Center,8
+2021-03-11,FrölundaFHC,SkellefteåSKE,3,-,4,Reg,1-1, 1-0, 1-3,Scandinavium,0
+2021-03-09,SkellefteåSKE,LuleåLHF,2,-,1,OT,0-0, 0-1, 1-0, 1-0,Skellefteå Kraft Arena,0
+2021-03-09,BrynäsBIF,LinköpingLHC,2,-,4,Reg,0-0, 2-1, 0-3,Monitor ERP Arena,0
+2021-03-09,DjurgårdenDIF,LeksandLIF,4,-,5,OT,3-2, 1-1, 0-1, 0-1,Hovet,0
+2021-03-09,RögleRBK,OskarshamnIKO,5,-,1,Reg,1-1, 2-0, 2-0,Catena Arena,8
+2021-03-09,FärjestadFBK,VäxjöVLH,2,-,3,Reg,1-0, 0-2, 1-1,Löfbergs Arena,8
+2021-03-09,HV71HV71,FrölundaFHC,1,-,3,Reg,0-1, 0-1, 1-1,Husqvarna Garden,0
+2021-03-07,BrynäsBIF,LeksandLIF,5,-,6,Reg,1-2, 2-2, 2-2,Monitor ERP Arena,0
+2021-03-06,MalmöMIF,FärjestadFBK,4,-,3,SO,1-1, 0-0, 2-2, 0-0, 1-0,Malmö Arena,0
+2021-03-05,ÖrebroÖRE,BrynäsBIF,3,-,2,OT,2-0, 0-0, 0-2, 1-0,Behrn Arena,0
+2021-03-04,FärjestadFBK,LinköpingLHC,2,-,5,Reg,0-2, 2-0, 0-3,Löfbergs Arena,8
+2021-03-02,MalmöMIF,FrölundaFHC,4,-,0,Reg,0-0, 2-0, 2-0,Malmö Arena,0
+2021-02-28,MalmöMIF,LuleåLHF,5,-,3,Reg,1-0, 3-1, 1-2,Malmö Arena,0
+2021-02-27,RögleRBK,SkellefteåSKE,4,-,2,Reg,0-1, 2-1, 2-0,Catena Arena,8
+2021-02-27,VäxjöVLH,LuleåLHF,3,-,2,Reg,0-0, 2-1, 1-1,Vida Arena,8
+2021-02-27,LinköpingLHC,ÖrebroÖRE,4,-,2,Reg,1-0, 2-1, 1-1,Saab Arena,0
+2021-02-27,MalmöMIF,HV71HV71,3,-,2,Reg,2-1, 1-0, 0-1,Malmö Arena,0
+2021-02-27,FrölundaFHC,DjurgårdenDIF,2,-,3,OT,1-1, 1-1, 0-0, 0-1,Scandinavium,0
+2021-02-25,LuleåLHF,FrölundaFHC,3,-,4,Reg,1-0, 2-1, 0-3,Coop Norrbotten Arena,0
+2021-02-25,ÖrebroÖRE,RögleRBK,5,-,2,Reg,2-1, 2-1, 1-0,Behrn Arena,0
+2021-02-25,VäxjöVLH,LinköpingLHC,2,-,1,OT,0-0, 0-0, 1-1, 1-0,Vida Arena,8
+2021-02-25,FärjestadFBK,LeksandLIF,5,-,3,Reg,1-2, 3-1, 1-0,Löfbergs Arena,8
+2021-02-25,HV71HV71,SkellefteåSKE,0,-,2,Reg,0-0, 0-1, 0-1,Husqvarna Garden,0
+2021-02-25,MalmöMIF,DjurgårdenDIF,3,-,1,Reg,0-0, 0-1, 3-0,Malmö Arena,0
+2021-02-23,ÖrebroÖRE,DjurgårdenDIF,1,-,0,Reg,1-0, 0-0, 0-0,Behrn Arena,0
+2021-02-23,RögleRBK,FärjestadFBK,0,-,4,Reg,0-3, 0-0, 0-1,Catena Arena,8
+2021-02-23,LinköpingLHC,SkellefteåSKE,2,-,5,Reg,0-2, 2-1, 0-2,Saab Arena,0
+2021-02-20,LuleåLHF,DjurgårdenDIF,4,-,5,Reg,1-1, 3-1, 0-3,Coop Norrbotten Arena,0
+2021-02-20,ÖrebroÖRE,LeksandLIF,1,-,2,Reg,1-0, 0-0, 0-2,Behrn Arena,0
+2021-02-20,FärjestadFBK,HV71HV71,4,-,3,OT,1-1, 2-0, 0-2, 1-0,Löfbergs Arena,8
+2021-02-20,OskarshamnIKO,LinköpingLHC,4,-,1,Reg,0-0, 3-1, 1-0,Be-Ge Hockey Center,8
+2021-02-20,SkellefteåSKE,BrynäsBIF,2,-,1,OT,0-0, 1-1, 0-0, 1-0,Skellefteå Kraft Arena,0
+2021-02-20,FrölundaFHC,RögleRBK,0,-,4,Reg,0-0, 0-3, 0-1,Scandinavium,0
+2021-02-18,SkellefteåSKE,LeksandLIF,3,-,6,Reg,0-0, 2-4, 1-2,Skellefteå Kraft Arena,0
+2021-02-18,BrynäsBIF,HV71HV71,2,-,1,OT,0-1, 1-0, 0-0, 1-0,Monitor ERP Arena,0
+2021-02-18,DjurgårdenDIF,RögleRBK,0,-,3,Reg,0-0, 0-2, 0-1,Hovet,0
+2021-02-18,FärjestadFBK,LuleåLHF,3,-,2,OT,0-0, 1-1, 1-1, 1-0,Löfbergs Arena,8
+2021-02-18,LinköpingLHC,FrölundaFHC,2,-,0,Reg,0-0, 1-0, 1-0,Saab Arena,0
+2021-02-18,OskarshamnIKO,MalmöMIF,2,-,3,Reg,1-1, 1-1, 0-1,Be-Ge Hockey Center,8
+2021-02-16,LuleåLHF,FärjestadFBK,3,-,2,OT,0-1, 1-1, 1-0, 1-0,Coop Norrbotten Arena,0
+2021-02-16,LeksandLIF,LinköpingLHC,2,-,0,Reg,1-0, 1-0, 0-0,Tegera Arena,8
+2021-02-16,ÖrebroÖRE,SkellefteåSKE,3,-,2,Reg,0-1, 1-0, 2-1,Behrn Arena,0
+2021-02-16,RögleRBK,BrynäsBIF,6,-,3,Reg,2-2, 1-1, 3-0,Catena Arena,8
+2021-02-16,HV71HV71,DjurgårdenDIF,1,-,3,Reg,1-0, 0-1, 0-2,Husqvarna Garden,0
+2021-02-16,OskarshamnIKO,VäxjöVLH,3,-,1,Reg,0-0, 0-0, 3-1,Be-Ge Hockey Center,8
+2021-02-16,FrölundaFHC,MalmöMIF,2,-,3,Reg,0-1, 2-1, 0-1,Scandinavium,0
+2021-02-11,BrynäsBIF,MalmöMIF,2,-,0,Reg,2-0, 0-0, 0-0,Monitor ERP Arena,0
+2021-02-09,DjurgårdenDIF,MalmöMIF,4,-,3,Reg,1-1, 1-1, 2-1,Hovet,0
+2021-02-08,HV71HV71,BrynäsBIF,2,-,1,OT,0-1, 0-0, 1-0, 1-0,Husqvarna Garden,0
+2021-02-06,LeksandLIF,FrölundaFHC,3,-,2,Reg,0-0, 2-2, 1-0,Tegera Arena,8
+2021-02-06,OskarshamnIKO,SkellefteåSKE,1,-,4,Reg,1-1, 0-2, 0-1,Be-Ge Hockey Center,8
+2021-02-06,LuleåLHF,RögleRBK,2,-,3,SO,0-1, 1-1, 1-0, 0-0, 0-1,Coop Norrbotten Arena,0
+2021-02-06,DjurgårdenDIF,VäxjöVLH,2,-,3,Reg,0-0, 1-1, 1-2,Hovet,0
+2021-02-06,LinköpingLHC,FärjestadFBK,3,-,2,Reg,0-1, 2-0, 1-1,Saab Arena,0
+2021-02-06,HV71HV71,ÖrebroÖRE,4,-,1,Reg,1-1, 2-0, 1-0,Husqvarna Garden,0
+2021-02-06,MalmöMIF,BrynäsBIF,0,-,3,Reg,0-0, 0-1, 0-2,Malmö Arena,0
+2021-02-04,SkellefteåSKE,DjurgårdenDIF,4,-,1,Reg,0-1, 2-0, 2-0,Skellefteå Kraft Arena,0
+2021-02-04,ÖrebroÖRE,FrölundaFHC,3,-,6,Reg,1-1, 0-1, 2-4,Behrn Arena,0
+2021-02-04,BrynäsBIF,LuleåLHF,1,-,3,Reg,0-1, 0-1, 1-1,Monitor ERP Arena,0
+2021-02-04,RögleRBK,HV71HV71,6,-,7,OT,1-3, 4-2, 1-1, 0-1,Catena Arena,0
+2021-02-04,VäxjöVLH,LeksandLIF,2,-,3,OT,0-1, 2-1, 0-0, 0-1,Vida Arena,8
+2021-02-04,FärjestadFBK,OskarshamnIKO,3,-,2,OT,1-0, 0-2, 1-0, 1-0,Löfbergs Arena,8
+2021-02-04,MalmöMIF,LinköpingLHC,3,-,2,Reg,1-1, 1-0, 1-1,Malmö Arena,0
+2021-02-03,BrynäsBIF,LuleåLHF,1,-,5,Reg,0-2, 1-1, 0-2,Monitor ERP Arena,0
+2021-02-02,LeksandLIF,ÖrebroÖRE,1,-,5,Reg,1-4, 0-0, 0-1,Tegera Arena,8
+2021-02-02,RögleRBK,MalmöMIF,1,-,2,SO,0-0, 0-1, 1-0, 0-0, 0-1,Catena Arena,8
+2021-02-02,LinköpingLHC,VäxjöVLH,1,-,2,SO,0-0, 1-1, 0-0, 0-0, 0-1,Saab Arena,0
+2021-02-02,OskarshamnIKO,FärjestadFBK,1,-,4,Reg,1-1, 0-2, 0-1,Be-Ge Hockey Center,8
+2021-01-31,LuleåLHF,SkellefteåSKE,1,-,4,Reg,1-1, 0-0, 0-3,Coop Norrbotten Arena,0
+2021-01-30,LuleåLHF,HV71HV71,4,-,3,Reg,2-0, 2-1, 0-2,Coop Norrbotten Arena,0
+2021-01-30,VäxjöVLH,OskarshamnIKO,3,-,4,OT,2-1, 0-1, 1-1, 0-1,Vida Arena,8
+2021-01-30,FärjestadFBK,ÖrebroÖRE,4,-,3,SO,0-1, 2-0, 1-2, 0-0, 1-0,Löfbergs Arena,0
+2021-01-30,SkellefteåSKE,RögleRBK,2,-,0,Reg,0-0, 1-0, 1-0,Skellefteå Kraft Arena,0
+2021-01-30,LeksandLIF,DjurgårdenDIF,3,-,2,SO,0-0, 2-0, 0-2, 0-0, 1-0,Tegera Arena,8
+2021-01-30,LinköpingLHC,MalmöMIF,6,-,3,Reg,1-1, 3-0, 2-2,Saab Arena,0
+2021-01-30,FrölundaFHC,BrynäsBIF,7,-,3,Reg,2-2, 2-1, 3-0,Scandinavium,0
+2021-01-28,SkellefteåSKE,LinköpingLHC,6,-,0,Reg,4-0, 1-0, 1-0,Skellefteå Kraft Arena,0
+2021-01-28,ÖrebroÖRE,LuleåLHF,4,-,1,Reg,1-0, 2-1, 1-0,Behrn Arena,0
+2021-01-28,BrynäsBIF,RögleRBK,4,-,5,SO,1-1, 1-2, 2-1, 0-0, 0-1,Monitor ERP Arena,0
+2021-01-28,DjurgårdenDIF,FärjestadFBK,0,-,3,Reg,0-0, 0-2, 0-1,Hovet,0
+2021-01-28,HV71HV71,VäxjöVLH,2,-,4,Reg,1-0, 1-3, 0-1,Husqvarna Garden,0
+2021-01-28,OskarshamnIKO,LeksandLIF,6,-,3,Reg,2-1, 3-2, 1-0,Be-Ge Hockey Center,8
+2021-01-26,BrynäsBIF,LinköpingLHC,3,-,5,Reg,2-1, 1-2, 0-2,Monitor ERP Arena,0
+2021-01-26,DjurgårdenDIF,HV71HV71,4,-,5,Reg,1-2, 2-2, 1-1,Hovet,0
+2021-01-26,VäxjöVLH,ÖrebroÖRE,6,-,2,Reg,1-1, 1-1, 4-0,Vida Arena,8
+2021-01-23,DjurgårdenDIF,SkellefteåSKE,0,-,2,Reg,0-1, 0-0, 0-1,Hovet,0
+2021-01-23,VäxjöVLH,BrynäsBIF,5,-,2,Reg,1-0, 1-1, 3-1,Vida Arena,8
+2021-01-23,LinköpingLHC,HV71HV71,0,-,1,Reg,0-1, 0-0, 0-0,Saab Arena,0
+2021-01-23,LeksandLIF,FärjestadFBK,2,-,3,Reg,1-0, 0-1, 1-2,Tegera Arena,8
+2021-01-23,RögleRBK,LuleåLHF,2,-,1,OT,1-0, 0-0, 0-1, 1-0,Catena Arena,8
+2021-01-23,FrölundaFHC,ÖrebroÖRE,0,-,3,Reg,0-0, 0-2, 0-1,Scandinavium,0
+2021-01-21,DjurgårdenDIF,RögleRBK,3,-,5,Reg,0-3, 0-1, 3-1,Hovet,0
+2021-01-21,LuleåLHF,VäxjöVLH,0,-,2,Reg,0-0, 0-0, 0-2,Coop Norrbotten Arena,0
+2021-01-21,SkellefteåSKE,HV71HV71,4,-,2,Reg,1-0, 1-2, 2-0,Skellefteå Kraft Arena,0
+2021-01-21,BrynäsBIF,OskarshamnIKO,3,-,1,Reg,2-0, 1-1, 0-0,Monitor ERP Arena,0
+2021-01-21,FrölundaFHC,LeksandLIF,4,-,5,Reg,0-2, 1-1, 3-2,Scandinavium,0
+2021-01-19,LuleåLHF,SkellefteåSKE,2,-,3,SO,0-0, 1-0, 1-2, 0-0, 0-1,Coop Norrbotten Arena,0
+2021-01-19,FrölundaFHC,LinköpingLHC,1,-,2,Reg,0-1, 1-1, 0-0,Scandinavium,0
+2021-01-19,BrynäsBIF,ÖrebroÖRE,2,-,0,Reg,0-0, 1-0, 1-0,Monitor ERP Arena,0
+2021-01-19,RögleRBK,DjurgårdenDIF,2,-,3,SO,2-1, 0-1, 0-0, 0-0, 0-1,Catena Arena,8
+2021-01-16,LeksandLIF,VäxjöVLH,1,-,2,Reg,1-1, 0-0, 0-1,Tegera Arena,8
+2021-01-16,FärjestadFBK,FrölundaFHC,1,-,3,Reg,1-0, 0-2, 0-1,Löfbergs Arena,0
+2021-01-16,ÖrebroÖRE,DjurgårdenDIF,4,-,6,Reg,0-2, 3-1, 1-3,Behrn Arena,0
+2021-01-16,BrynäsBIF,SkellefteåSKE,4,-,5,Reg,1-2, 2-1, 1-2,Monitor ERP Arena,0
+2021-01-16,LinköpingLHC,OskarshamnIKO,4,-,2,Reg,3-0, 0-1, 1-1,Saab Arena,0
+2021-01-16,HV71HV71,RögleRBK,1,-,5,Reg,0-2, 1-0, 0-3,Husqvarna Garden,0
+2021-01-14,LuleåLHF,BrynäsBIF,4,-,1,Reg,0-0, 1-1, 3-0,Coop Norrbotten Arena,0
+2021-01-14,SkellefteåSKE,FrölundaFHC,5,-,1,Reg,2-1, 2-0, 1-0,Skellefteå Kraft Arena,0
+2021-01-14,VäxjöVLH,RögleRBK,3,-,2,OT,1-0, 0-2, 1-0, 1-0,Vida Arena,8
+2021-01-14,LinköpingLHC,LeksandLIF,2,-,3,Reg,0-0, 0-2, 2-1,Saab Arena,0
+2021-01-14,HV71HV71,FärjestadFBK,4,-,2,Reg,0-0, 3-0, 1-2,Husqvarna Garden,0
+2021-01-14,DjurgårdenDIF,ÖrebroÖRE,0,-,2,Reg,0-1, 0-0, 0-1,Hovet,0
+2021-01-12,BrynäsBIF,DjurgårdenDIF,3,-,2,Reg,0-0, 3-1, 0-1,Monitor ERP Arena,0
+2021-01-12,LuleåLHF,LinköpingLHC,2,-,1,Reg,0-0, 2-1, 0-0,Coop Norrbotten Arena,0
+2021-01-12,RögleRBK,LeksandLIF,2,-,5,Reg,2-1, 0-2, 0-2,Catena Arena,8
+2021-01-12,FärjestadFBK,OskarshamnIKO,1,-,3,Reg,1-0, 0-2, 0-1,Löfbergs Arena,0
+2021-01-09,SkellefteåSKE,VäxjöVLH,4,-,3,OT,1-2, 1-0, 1-1, 1-0,Skellefteå Kraft Arena,0
+2021-01-09,ÖrebroÖRE,HV71HV71,5,-,2,Reg,0-2, 2-0, 3-0,Behrn Arena,0
+2021-01-09,RögleRBK,LinköpingLHC,3,-,1,Reg,0-1, 0-0, 3-0,Catena Arena,8
+2021-01-09,LuleåLHF,OskarshamnIKO,7,-,3,Reg,3-1, 2-0, 2-2,Coop Norrbotten Arena,0
+2021-01-09,BrynäsBIF,DjurgårdenDIF,6,-,1,Reg,3-0, 2-1, 1-0,Monitor ERP Arena,0
+2021-01-09,MalmöMIF,LeksandLIF,0,-,1,Reg,0-0, 0-0, 0-1,Malmö Arena,0
+2021-01-09,FrölundaFHC,FärjestadFBK,3,-,0,Reg,2-0, 1-0, 0-0,Scandinavium,0
+2021-01-07,LeksandLIF,HV71HV71,3,-,4,SO,1-1, 1-2, 1-0, 0-0, 0-1,Tegera Arena,8
+2021-01-07,DjurgårdenDIF,OskarshamnIKO,3,-,4,Reg,0-2, 1-1, 2-1,Hovet,0
+2021-01-07,VäxjöVLH,SkellefteåSKE,2,-,0,Reg,0-0, 2-0, 0-0,Vida Arena,8
+2021-01-07,FärjestadFBK,RögleRBK,5,-,4,OT,0-1, 1-1, 3-2, 1-0,Löfbergs Arena,0
+2021-01-07,LinköpingLHC,BrynäsBIF,2,-,4,Reg,2-1, 0-2, 0-1,Saab Arena,0
+2021-01-07,MalmöMIF,ÖrebroÖRE,4,-,1,Reg,0-1, 0-0, 4-0,Malmö Arena,0
+2021-01-07,FrölundaFHC,LuleåLHF,0,-,3,Reg,0-2, 0-0, 0-1,Scandinavium,0
+2021-01-06,LinköpingLHC,ÖrebroÖRE,4,-,7,Reg,2-4, 0-1, 2-2,Saab Arena,0
+2021-01-05,RögleRBK,LuleåLHF,2,-,1,SO,0-1, 1-0, 0-0, 0-0, 1-0,Catena Arena,8
+2021-01-05,OskarshamnIKO,BrynäsBIF,6,-,1,Reg,2-1, 2-0, 2-0,Be-Ge Hockey Center,8
+2021-01-04,VäxjöVLH,DjurgårdenDIF,2,-,1,OT,0-1, 1-0, 0-0, 1-0,Vida Arena,8
+2021-01-04,HV71HV71,LeksandLIF,2,-,4,Reg,1-1, 0-1, 1-2,Husqvarna Garden,0
+2021-01-04,LinköpingLHC,MalmöMIF,1,-,3,Reg,0-1, 1-1, 0-1,Saab Arena,0
+2021-01-03,OskarshamnIKO,FrölundaFHC,2,-,5,Reg,0-1, 1-1, 1-3,Be-Ge Hockey Center,0
+2021-01-02,SkellefteåSKE,FärjestadFBK,3,-,2,OT,0-0, 2-1, 0-1, 1-0,Skellefteå Kraft Arena,0
+2021-01-02,LuleåLHF,LinköpingLHC,5,-,2,Reg,2-1, 3-0, 0-1,Coop Norrbotten Arena,0
+2021-01-02,BrynäsBIF,LeksandLIF,4,-,5,SO,3-2, 1-2, 0-0, 0-0, 0-1,Monitor ERP Arena,0
+2021-01-02,RögleRBK,ÖrebroÖRE,4,-,0,Reg,0-0, 2-0, 2-0,Catena Arena,8
+2021-01-02,VäxjöVLH,DjurgårdenDIF,2,-,3,OT,0-2, 1-0, 1-0, 0-1,Vida Arena,8
+2021-01-02,HV71HV71,MalmöMIF,1,-,4,Reg,0-1, 1-1, 0-2,Husqvarna Garden,0
+2020-12-30,FärjestadFBK,BrynäsBIF,2,-,3,OT,0-1, 1-1, 1-0, 0-1,Löfbergs Arena,0
+2020-12-30,LeksandLIF,SkellefteåSKE,5,-,3,Reg,1-2, 0-0, 4-1,Tegera Arena,8
+2020-12-30,DjurgårdenDIF,LuleåLHF,5,-,3,Reg,1-0, 1-2, 3-1,Hovet,0
+2020-12-30,OskarshamnIKO,RögleRBK,1,-,3,Reg,0-2, 0-1, 1-0,Be-Ge Hockey Center,0
+2020-12-30,FrölundaFHC,HV71HV71,4,-,1,Reg,1-0, 1-0, 2-1,Scandinavium,0
+2020-12-30,ÖrebroÖRE,LinköpingLHC,3,-,2,Reg,1-0, 2-0, 0-2,Behrn Arena,0
+2020-12-30,MalmöMIF,VäxjöVLH,2,-,6,Reg,1-1, 0-3, 1-2,Malmö Arena,0
+2020-12-28,LuleåLHF,LeksandLIF,3,-,0,Reg,0-0, 0-0, 3-0,Coop Norrbotten Arena,0
+2020-12-28,SkellefteåSKE,ÖrebroÖRE,4,-,1,Reg,2-1, 1-0, 1-0,Skellefteå Kraft Arena,0
+2020-12-28,BrynäsBIF,MalmöMIF,5,-,2,Reg,2-0, 0-1, 3-1,Monitor ERP Arena,0
+2020-12-28,RögleRBK,FrölundaFHC,1,-,3,Reg,1-1, 0-1, 0-1,Catena Arena,8
+2020-12-28,VäxjöVLH,FärjestadFBK,4,-,1,Reg,1-0, 1-1, 2-0,Vida Arena,8
+2020-12-28,LinköpingLHC,DjurgårdenDIF,1,-,5,Reg,1-2, 0-1, 0-2,Saab Arena,0
+2020-12-28,HV71HV71,OskarshamnIKO,3,-,2,OT,1-0, 1-2, 0-0, 1-0,Husqvarna Garden,0
+2020-12-26,ÖrebroÖRE,VäxjöVLH,6,-,2,Reg,2-1, 1-0, 3-1,Behrn Arena,0
+2020-12-26,FrölundaFHC,LinköpingLHC,4,-,3,Reg,1-1, 1-1, 2-1,Scandinavium,0
+2020-12-26,LeksandLIF,RögleRBK,1,-,3,Reg,0-1, 1-2, 0-0,Tegera Arena,0
+2020-12-26,FärjestadFBK,DjurgårdenDIF,5,-,2,Reg,1-0, 1-0, 3-2,Löfbergs Arena,0
+2020-12-21,OskarshamnIKO,VäxjöVLH,2,-,3,SO,0-0, 2-0, 0-2, 0-0, 0-1,Be-Ge Hockey Center,0
+2020-12-19,OskarshamnIKO,LuleåLHF,2,-,5,Reg,1-0, 1-4, 0-1,Be-Ge Hockey Center,0
+2020-12-17,RögleRBK,MalmöMIF,2,-,3,Reg,1-1, 1-1, 0-1,Catena Arena,0
+2020-12-17,ÖrebroÖRE,FrölundaFHC,1,-,6,Reg,0-1, 1-2, 0-3,Behrn Arena,50
+2020-12-17,LuleåLHF,OskarshamnIKO,5,-,4,OT,2-2, 1-2, 1-0, 1-0,Coop Norrbotten Arena,0
+2020-12-15,LinköpingLHC,OskarshamnIKO,6,-,3,Reg,4-0, 0-1, 2-2,Saab Arena,0
+2020-12-15,RögleRBK,FärjestadFBK,3,-,4,SO,0-0, 2-3, 1-0, 0-0, 0-1,Catena Arena,8
+2020-12-15,MalmöMIF,HV71HV71,2,-,1,Reg,1-0, 1-1, 0-0,Malmö Arena,0
+2020-12-15,DjurgårdenDIF,FrölundaFHC,5,-,1,Reg,1-0, 2-1, 2-0,Hovet,0
+2020-12-13,ÖrebroÖRE,FärjestadFBK,5,-,2,Reg,2-0, 2-2, 1-0,Behrn Arena,0
+2020-12-12,LuleåLHF,DjurgårdenDIF,3,-,2,Reg,2-0, 1-1, 0-1,Coop Norrbotten Arena,0
+2020-12-12,SkellefteåSKE,LeksandLIF,1,-,3,Reg,0-1, 1-2, 0-0,Skellefteå Kraft Arena,50
+2020-12-12,RögleRBK,OskarshamnIKO,2,-,1,Reg,0-0, 2-0, 0-1,Catena Arena,8
+2020-12-12,FärjestadFBK,VäxjöVLH,4,-,2,Reg,0-0, 3-1, 1-1,Löfbergs Arena,0
+2020-12-12,HV71HV71,ÖrebroÖRE,2,-,4,Reg,0-1, 1-2, 1-1,Husqvarna Garden,0
+2020-12-12,FrölundaFHC,MalmöMIF,2,-,3,Reg,1-0, 0-2, 1-1,Scandinavium,0
+2020-12-10,DjurgårdenDIF,ÖrebroÖRE,5,-,2,Reg,1-0, 2-1, 2-1,Hovet,0
+2020-12-10,RögleRBK,SkellefteåSKE,5,-,2,Reg,1-0, 3-1, 1-1,Catena Arena,8
+2020-12-10,VäxjöVLH,LeksandLIF,4,-,3,Reg,2-1, 0-2, 2-0,Vida Arena,8
+2020-12-10,LinköpingLHC,FärjestadFBK,1,-,5,Reg,0-2, 1-1, 0-2,Saab Arena,0
+2020-12-10,HV71HV71,FrölundaFHC,2,-,3,Reg,2-0, 0-3, 0-0,Husqvarna Garden,0
+2020-12-10,MalmöMIF,OskarshamnIKO,4,-,0,Reg,0-0, 2-0, 2-0,Malmö Arena,0
+2020-12-08,VäxjöVLH,OskarshamnIKO,4,-,3,Reg,1-0, 3-2, 0-1,Vida Arena,8
+2020-12-08,LinköpingLHC,HV71HV71,2,-,0,Reg,0-0, 0-0, 2-0,Saab Arena,0
+2020-12-08,LuleåLHF,RögleRBK,0,-,5,Reg,0-1, 0-3, 0-1,Coop Norrbotten Arena,0
+2020-12-08,ÖrebroÖRE,LeksandLIF,1,-,0,OT,0-0, 0-0, 0-0, 1-0,Behrn Arena,50
+2020-12-08,MalmöMIF,SkellefteåSKE,0,-,3,Reg,0-0, 0-2, 0-1,Malmö Arena,0
+2020-12-06,RögleRBK,VäxjöVLH,4,-,2,Reg,2-0, 1-0, 1-2,Catena Arena,8
+2020-12-05,LeksandLIF,LuleåLHF,6,-,3,Reg,2-1, 1-1, 3-1,Tegera Arena,0
+2020-12-05,OskarshamnIKO,HV71HV71,1,-,2,Reg,0-1, 0-0, 1-1,Be-Ge Hockey Center,0
+2020-12-05,MalmöMIF,DjurgårdenDIF,1,-,3,Reg,1-1, 0-0, 0-2,Malmö Arena,0
+2020-12-05,SkellefteåSKE,BrynäsBIF,6,-,5,OT,1-1, 2-1, 2-3, 1-0,Skellefteå Kraft Arena,8
+2020-12-05,VäxjöVLH,LinköpingLHC,3,-,0,Reg,0-0, 2-0, 1-0,Vida Arena,8
+2020-12-05,FrölundaFHC,RögleRBK,3,-,2,Reg,0-1, 1-1, 2-0,Scandinavium,0
+2020-12-03,LuleåLHF,MalmöMIF,5,-,3,Reg,1-0, 3-2, 1-1,Coop Norrbotten Arena,0
+2020-12-03,LeksandLIF,BrynäsBIF,3,-,1,Reg,1-0, 2-0, 0-1,Tegera Arena,8
+2020-12-03,FärjestadFBK,SkellefteåSKE,4,-,3,SO,1-0, 2-1, 0-2, 0-0, 1-0,Löfbergs Arena,0
+2020-12-03,LinköpingLHC,RögleRBK,2,-,1,Reg,1-0, 1-0, 0-1,Saab Arena,0
+2020-12-03,HV71HV71,DjurgårdenDIF,5,-,1,Reg,2-0, 1-0, 2-1,Husqvarna Garden,0
+2020-12-01,SkellefteåSKE,LuleåLHF,0,-,4,Reg,0-1, 0-1, 0-2,Skellefteå Kraft Arena,8
+2020-12-01,DjurgårdenDIF,LeksandLIF,3,-,0,Reg,1-0, 2-0, 0-0,Hovet,0
+2020-12-01,RögleRBK,HV71HV71,4,-,0,Reg,0-0, 4-0, 0-0,Catena Arena,8
+2020-12-01,VäxjöVLH,FrölundaFHC,8,-,0,Reg,1-0, 5-0, 2-0,Vida Arena,8
+2020-12-01,MalmöMIF,LinköpingLHC,3,-,4,OT,2-0, 1-1, 0-2, 0-1,Malmö Arena,0
+2020-11-28,BrynäsBIF,FärjestadFBK,4,-,6,Reg,0-1, 2-3, 2-2,Monitor ERP Arena,0
+2020-11-28,LeksandLIF,MalmöMIF,4,-,3,Reg,0-2, 1-0, 3-1,Tegera Arena,8
+2020-11-28,HV71HV71,SkellefteåSKE,2,-,3,Reg,1-1, 1-1, 0-1,Husqvarna Garden,0
+2020-11-28,FrölundaFHC,DjurgårdenDIF,2,-,3,Reg,0-1, 1-1, 1-1,Scandinavium,0
+2020-11-26,VäxjöVLH,MalmöMIF,3,-,0,Reg,1-0, 1-0, 1-0,Vida Arena,8
+2020-11-26,HV71HV71,LinköpingLHC,2,-,3,SO,0-1, 1-1, 1-0, 0-0, 0-1,Husqvarna Garden,0
+2020-11-24,DjurgårdenDIF,BrynäsBIF,4,-,1,Reg,3-0, 1-1, 0-0,Hovet,0
+2020-11-24,HV71HV71,LuleåLHF,5,-,1,Reg,1-0, 3-1, 1-0,Husqvarna Garden,0
+2020-11-22,FärjestadFBK,LuleåLHF,1,-,4,Reg,0-1, 1-1, 0-2,Löfbergs Arena,50
+2020-11-21,SkellefteåSKE,MalmöMIF,3,-,4,Reg,1-3, 2-0, 0-1,Skellefteå Kraft Arena,0
+2020-11-21,ÖrebroÖRE,OskarshamnIKO,2,-,1,Reg,0-1, 1-0, 1-0,Behrn Arena,50
+2020-11-21,FärjestadFBK,HV71HV71,3,-,2,Reg,0-1, 2-0, 1-1,Löfbergs Arena,50
+2020-11-21,BrynäsBIF,FrölundaFHC,7,-,1,Reg,1-1, 2-0, 4-0,Monitor ERP Arena,0
+2020-11-21,DjurgårdenDIF,VäxjöVLH,3,-,2,Reg,1-0, 0-1, 2-1,Hovet,0
+2020-11-21,LinköpingLHC,LuleåLHF,2,-,3,Reg,0-1, 2-2, 0-0,Saab Arena,0
+2020-11-19,LuleåLHF,ÖrebroÖRE,4,-,3,OT,2-0, 1-1, 0-2, 1-0,Coop Norrbotten Arena,0
+2020-11-19,SkellefteåSKE,DjurgårdenDIF,3,-,1,Reg,2-1, 0-0, 1-0,Skellefteå Kraft Arena,0
+2020-11-19,LeksandLIF,LinköpingLHC,1,-,2,OT,0-1, 1-0, 0-0, 0-1,Tegera Arena,50
+2020-11-19,BrynäsBIF,VäxjöVLH,1,-,3,Reg,0-2, 0-0, 1-1,Monitor ERP Arena,0
+2020-11-19,FrölundaFHC,OskarshamnIKO,4,-,1,Reg,1-0, 1-0, 2-1,Scandinavium,0
+2020-11-17,OskarshamnIKO,LinköpingLHC,3,-,6,Reg,0-0, 1-2, 2-4,Be-Ge Hockey Center,0
+2020-11-16,DjurgårdenDIF,SkellefteåSKE,3,-,2,OT,2-0, 0-0, 0-2, 1-0,Hovet,50
+2020-11-16,LeksandLIF,FrölundaFHC,4,-,0,Reg,2-0, 0-0, 2-0,Tegera Arena,50
+2020-11-14,ÖrebroÖRE,RögleRBK,6,-,5,OT,2-0, 1-3, 2-2, 1-0,Behrn Arena,50
+2020-11-14,FärjestadFBK,DjurgårdenDIF,5,-,0,Reg,3-0, 1-0, 1-0,Löfbergs Arena,50
+2020-11-14,LinköpingLHC,FrölundaFHC,1,-,3,Reg,0-2, 1-0, 0-1,Saab Arena,50
+2020-11-14,VäxjöVLH,LuleåLHF,3,-,2,Reg,1-1, 1-0, 1-1,Vida Arena,50
+2020-11-14,OskarshamnIKO,SkellefteåSKE,2,-,3,OT,1-1, 1-1, 0-0, 0-1,Be-Ge Hockey Center,50
+2020-11-14,MalmöMIF,BrynäsBIF,7,-,2,Reg,4-0, 0-2, 3-0,Malmö Arena,50
+2020-11-12,SkellefteåSKE,VäxjöVLH,4,-,2,Reg,2-1, 0-0, 2-1,Skellefteå Kraft Arena,50
+2020-11-12,LeksandLIF,OskarshamnIKO,4,-,2,Reg,3-0, 0-1, 1-1,Tegera Arena,0
+2020-11-12,ÖrebroÖRE,MalmöMIF,6,-,2,Reg,1-1, 3-0, 2-1,Behrn Arena,50
+2020-11-12,DjurgårdenDIF,LinköpingLHC,6,-,2,Reg,2-0, 3-2, 1-0,Hovet,0
+2020-11-12,RögleRBK,BrynäsBIF,4,-,1,Reg,1-0, 1-1, 2-0,Catena Arena,50
+2020-11-12,FrölundaFHC,FärjestadFBK,4,-,3,Reg,3-1, 1-2, 0-0,Scandinavium,50
+2020-11-10,LuleåLHF,FrölundaFHC,0,-,2,Reg,0-1, 0-1, 0-0,Coop Norrbotten Arena,300
+2020-11-10,VäxjöVLH,ÖrebroÖRE,3,-,2,OT,1-1, 1-1, 0-0, 1-0,Vida Arena,50
+2020-11-10,FärjestadFBK,LeksandLIF,3,-,2,OT,0-1, 0-0, 2-1, 1-0,Löfbergs Arena,50
+2020-11-10,LinköpingLHC,SkellefteåSKE,2,-,1,Reg,0-1, 0-0, 2-0,Saab Arena,50
+2020-11-10,OskarshamnIKO,DjurgårdenDIF,4,-,2,Reg,0-1, 0-0, 4-1,Be-Ge Hockey Center,50
+2020-11-10,MalmöMIF,RögleRBK,0,-,2,Reg,0-0, 0-1, 0-1,Malmö Arena,50
+2020-10-31,VäxjöVLH,HV71HV71,6,-,3,Reg,1-0, 4-1, 1-2,Vida Arena,50
+2020-10-31,ÖrebroÖRE,SkellefteåSKE,3,-,2,Reg,1-0, 2-1, 0-1,Behrn Arena,50
+2020-10-31,MalmöMIF,FärjestadFBK,2,-,3,Reg,0-2, 2-0, 0-1,Malmö Arena,0
+2020-10-29,SkellefteåSKE,OskarshamnIKO,1,-,3,Reg,0-0, 0-0, 1-3,Skellefteå Kraft Arena,50
+2020-10-29,HV71HV71,VäxjöVLH,3,-,2,OT,0-1, 1-0, 1-1, 1-0,Husqvarna Garden,50
+2020-10-29,FrölundaFHC,ÖrebroÖRE,3,-,1,Reg,1-1, 1-0, 1-0,Scandinavium,50
+2020-10-27,LeksandLIF,HV71HV71,1,-,3,Reg,0-1, 1-1, 0-1,Tegera Arena,50
+2020-10-27,ÖrebroÖRE,BrynäsBIF,3,-,0,Reg,3-0, 0-0, 0-0,Behrn Arena,50
+2020-10-27,FärjestadFBK,RögleRBK,2,-,5,Reg,0-3, 2-0, 0-2,Löfbergs Arena,50
+2020-10-27,OskarshamnIKO,FrölundaFHC,3,-,2,Reg,1-0, 2-1, 0-1,Be-Ge Hockey Center,50
+2020-10-27,MalmöMIF,SkellefteåSKE,3,-,2,OT,1-1, 0-1, 1-0, 1-0,Malmö Arena,50
+2020-10-24,ÖrebroÖRE,VäxjöVLH,4,-,3,OT,1-2, 1-0, 1-1, 1-0,Behrn Arena,50
+2020-10-24,OskarshamnIKO,MalmöMIF,4,-,1,Reg,0-0, 2-1, 2-0,Be-Ge Hockey Center,50
+2020-10-24,SkellefteåSKE,RögleRBK,4,-,5,Reg,3-3, 1-1, 0-1,Skellefteå Kraft Arena,50
+2020-10-24,LeksandLIF,FärjestadFBK,3,-,2,OT,0-0, 1-1, 1-1, 1-0,Tegera Arena,50
+2020-10-24,FrölundaFHC,LuleåLHF,4,-,1,Reg,0-0, 3-0, 1-1,Scandinavium,50
+2020-10-22,LuleåLHF,LeksandLIF,5,-,2,Reg,2-0, 1-1, 2-1,Coop Norrbotten Arena,50
+2020-10-22,RögleRBK,FrölundaFHC,5,-,4,Reg,1-1, 2-2, 2-1,Catena Arena,50
+2020-10-22,FärjestadFBK,ÖrebroÖRE,7,-,3,Reg,2-2, 3-1, 2-0,Löfbergs Arena,50
+2020-10-22,HV71HV71,BrynäsBIF,6,-,4,Reg,3-1, 1-1, 2-2,Husqvarna Garden,50
+2020-10-22,VäxjöVLH,MalmöMIF,4,-,3,Reg,0-0, 2-2, 2-1,Vida Arena,50
+2020-10-20,LeksandLIF,DjurgårdenDIF,3,-,2,OT,0-1, 0-1, 2-0, 1-0,Tegera Arena,50
+2020-10-20,MalmöMIF,FrölundaFHC,2,-,6,Reg,0-2, 1-1, 1-3,Malmö Arena,50
+2020-10-17,SkellefteåSKE,LinköpingLHC,3,-,2,Reg,0-2, 2-0, 1-0,Skellefteå Kraft Arena,50
+2020-10-17,DjurgårdenDIF,HV71HV71,6,-,3,Reg,1-0, 1-3, 4-0,Hovet,50
+2020-10-17,FärjestadFBK,FrölundaFHC,3,-,0,Reg,1-0, 0-0, 2-0,Löfbergs Arena,50
+2020-10-17,LeksandLIF,RögleRBK,3,-,2,OT,1-1, 1-1, 0-0, 1-0,Tegera Arena,50
+2020-10-17,VäxjöVLH,BrynäsBIF,5,-,1,Reg,0-0, 1-1, 4-0,Vida Arena,50
+2020-10-17,OskarshamnIKO,ÖrebroÖRE,2,-,3,Reg,1-2, 0-0, 1-1,Be-Ge Hockey Center,50
+2020-10-17,MalmöMIF,LuleåLHF,2,-,4,Reg,0-3, 0-0, 2-1,Malmö Arena,50
+2020-10-15,SkellefteåSKE,FärjestadFBK,1,-,0,Reg,0-0, 1-0, 0-0,Skellefteå Kraft Arena,50
+2020-10-15,ÖrebroÖRE,LuleåLHF,1,-,2,SO,1-1, 0-0, 0-0, 0-0, 0-1,Behrn Arena,200
+2020-10-15,BrynäsBIF,RögleRBK,2,-,1,Reg,0-1, 2-0, 0-0,Monitor ERP Arena,50
+2020-10-15,LinköpingLHC,DjurgårdenDIF,5,-,4,Reg,2-2, 2-1, 1-1,Saab Arena,50
+2020-10-15,HV71HV71,MalmöMIF,5,-,2,Reg,1-1, 2-0, 2-1,Husqvarna Garden,50
+2020-10-15,OskarshamnIKO,LeksandLIF,5,-,2,Reg,0-1, 3-1, 2-0,Be-Ge Hockey Center,50
+2020-10-15,FrölundaFHC,VäxjöVLH,3,-,2,Reg,2-1, 1-1, 0-0,Scandinavium,50
+2020-10-12,FrölundaFHC,SkellefteåSKE,3,-,2,SO,1-0, 1-1, 0-1, 0-0, 1-0,Scandinavium,50
+2020-10-10,LinköpingLHC,LeksandLIF,1,-,4,Reg,0-1, 1-1, 0-2,Saab Arena,50
+2020-10-10,HV71HV71,FärjestadFBK,2,-,3,OT,2-2, 0-0, 0-0, 0-1,Husqvarna Garden,50
+2020-10-10,LuleåLHF,BrynäsBIF,2,-,3,SO,0-1, 1-0, 1-1, 0-0, 0-1,Coop Norrbotten Arena,50
+2020-10-10,DjurgårdenDIF,OskarshamnIKO,3,-,4,Reg,1-1, 0-2, 2-1,Hovet,50
+2020-10-10,RögleRBK,ÖrebroÖRE,3,-,1,Reg,2-0, 1-0, 0-1,Catena Arena,50
+2020-10-10,VäxjöVLH,SkellefteåSKE,1,-,3,Reg,1-0, 0-0, 0-3,Vida Arena,50
+2020-10-08,SkellefteåSKE,HV71HV71,4,-,2,Reg,1-0, 1-1, 2-1,Skellefteå Kraft Arena,50
+2020-10-08,LeksandLIF,VäxjöVLH,0,-,2,Reg,0-0, 0-2, 0-0,Tegera Arena,50
+2020-10-08,DjurgårdenDIF,LuleåLHF,3,-,2,OT,1-0, 1-2, 0-0, 1-0,Hovet,50
+2020-10-08,FärjestadFBK,LinköpingLHC,5,-,4,Reg,3-2, 0-0, 2-2,Löfbergs Arena,50
+2020-10-08,OskarshamnIKO,RögleRBK,2,-,3,Reg,1-1, 1-1, 0-1,Be-Ge Hockey Center,50
+2020-10-08,MalmöMIF,ÖrebroÖRE,2,-,1,Reg,1-1, 1-0, 0-0,Malmö Arena,50
+2020-10-08,FrölundaFHC,BrynäsBIF,3,-,0,Reg,0-0, 1-0, 2-0,Scandinavium,50
+2020-10-03,ÖrebroÖRE,LinköpingLHC,6,-,4,Reg,1-0, 3-1, 2-3,Behrn Arena,200
+2020-10-03,FrölundaFHC,LeksandLIF,4,-,2,Reg,1-1, 2-1, 1-0,Scandinavium,50
+2020-10-03,LuleåLHF,VäxjöVLH,2,-,1,Reg,0-0, 1-0, 1-1,Coop Norrbotten Arena,50
+2020-10-03,BrynäsBIF,SkellefteåSKE,3,-,2,Reg,1-2, 1-0, 1-0,Monitor ERP Arena,50
+2020-10-03,RögleRBK,DjurgårdenDIF,5,-,3,Reg,2-0, 2-1, 1-2,Catena Arena,50
+2020-10-03,FärjestadFBK,MalmöMIF,2,-,4,Reg,0-0, 0-3, 2-1,Löfbergs Arena,50
+2020-10-03,HV71HV71,OskarshamnIKO,6,-,3,Reg,0-2, 3-1, 3-0,Husqvarna Garden,50
+2020-10-01,LuleåLHF,HV71HV71,5,-,4,Reg,2-1, 3-1, 0-2,Coop Norrbotten Arena,50
+2020-10-01,SkellefteåSKE,FrölundaFHC,3,-,1,Reg,2-1, 1-0, 0-0,Skellefteå Kraft Arena,50
+2020-10-01,LeksandLIF,ÖrebroÖRE,3,-,5,Reg,2-1, 0-2, 1-2,Tegera Arena,50
+2020-10-01,DjurgårdenDIF,MalmöMIF,3,-,0,Reg,0-0, 1-0, 2-0,Hovet,0
+2020-10-01,VäxjöVLH,RögleRBK,2,-,1,Reg,0-1, 1-0, 1-0,Vida Arena,50
+2020-10-01,LinköpingLHC,BrynäsBIF,5,-,4,OT,2-1, 0-3, 2-0, 1-0,Saab Arena,50
+2020-10-01,OskarshamnIKO,FärjestadFBK,4,-,2,Reg,3-1, 1-0, 0-1,Be-Ge Hockey Center,50
+2020-09-27,DjurgårdenDIF,FrölundaFHC,0,-,2,Reg,0-0, 0-1, 0-1,Hovet,0
+2020-09-26,SkellefteåSKE,ÖrebroÖRE,1,-,4,Reg,0-1, 0-2, 1-1,Skellefteå Kraft Arena,50
+2020-09-26,FärjestadFBK,BrynäsBIF,3,-,5,Reg,2-2, 1-1, 0-2,Löfbergs Arena,50
+2020-09-26,HV71HV71,RögleRBK,2,-,3,Reg,0-1, 1-1, 1-1,Husqvarna Garden,50
+2020-09-26,LinköpingLHC,VäxjöVLH,1,-,2,SO,1-1, 0-0, 0-0, 0-0, 0-1,Saab Arena,50
+2020-09-26,OskarshamnIKO,LuleåLHF,2,-,5,Reg,1-1, 1-2, 0-2,Be-Ge Hockey Center,50
+2020-09-24,ÖrebroÖRE,HV71HV71,5,-,4,Reg,2-1, 1-3, 2-0,Behrn Arena,50
+2020-09-24,BrynäsBIF,OskarshamnIKO,2,-,5,Reg,1-2, 0-3, 1-0,Monitor ERP Arena,50
+2020-09-24,VäxjöVLH,FärjestadFBK,2,-,3,SO,0-1, 1-1, 1-0, 0-0, 0-1,Vida Arena,50
+2020-09-22,MalmöMIF,LeksandLIF,3,-,5,Reg,1-3, 1-1, 1-1,Malmö Arena,50
+2020-09-19,LuleåLHF,FärjestadFBK,4,-,2,Reg,2-0, 1-0, 1-2,Coop Norrbotten Arena,50
+2020-09-19,RögleRBK,LinköpingLHC,6,-,4,Reg,1-1, 3-1, 2-2,Catena Arena,50
+2020-09-19,LeksandLIF,SkellefteåSKE,4,-,5,OT,1-2, 0-2, 3-0, 0-1,Tegera Arena,50
+2020-09-19,FrölundaFHC,HV71HV71,3,-,0,Reg,2-0, 1-0, 0-0,Scandinavium,50
